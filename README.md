@@ -8,4 +8,4 @@ Instrucciones:
 
 3-Correr Notebook: Comp3_Ensemble_Entrega.ipynb (genera archivo: "Comp3_Entrega_Ensemble_SoftVoting_Corte11250.csv" a partir de: "/content/buckets/b1/exp/Comp3_Entrega-300/prediccion.txt" y "/content/buckets/b1/exp/Comp3_Entrega-400/prediccion.txt")
 
-La entrega final es el último archivo: "Comp3_Entrega_Ensemble_SoftVoting_Corte11250.csv"
+La entrega final es el último archivo: "Comp3_DuilioCamps_Lista_IDs_Corte11250.csv"
